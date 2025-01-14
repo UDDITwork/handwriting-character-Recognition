@@ -6,7 +6,7 @@
 
 
 </div>
-![image](https://github.com/user-attachments/assets/ce74370d-679c-4253-b8a9-09c90b60b16c)
+![image](https://github.com/user-attachments/assets/ce74370d-679c-4253-b8a9-09c90b60b16c).
 
 
 ## 🎯 Overview
