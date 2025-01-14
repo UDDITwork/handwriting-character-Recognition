@@ -3,7 +3,7 @@
 <div align="center">
 
 ![GitHub Stars](https://img.shields.io/github/stars/UDDITwork?style=for-the-badge)
-![GitHub Forks](https://img.shields.io/github/forks/UDDITwork?style=for-the-badge)
+
 
 </div>
 
