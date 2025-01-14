@@ -1,43 +1,59 @@
-https://zupe.app/uddit_attendance-by-paper-list-image-upload-ocr
-# Handwriting Recognition Attendance System  
+# 📝 Handwriting Recognition Attendance System
 
-This project is a **web application** designed to mark student attendance by recognizing handwritten student IDs and names from an image. The app captures the handwritten data from a paper, processes it using handwriting recognition algorithms, and stores the attendance in a structured format.
+<div align="center">
 
-## Features  
-- Upload or capture an image of handwritten student IDs and names.  
-- Handwriting recognition using cutting-edge OCR technology.  
-- Real-time processing to mark attendance quickly.  
-- Secure and efficient data storage.  
-- User-friendly interface for teachers to monitor and manage attendance records.
+![GitHub Stars](https://img.shields.io/github/stars/UDDITwork?style=for-the-badge)
+![GitHub Forks](https://img.shields.io/github/forks/UDDITwork?style=for-the-badge)
+
+</div>
+
+## 🎯 Overview
+
+Transform the way you take attendance with our innovative **web application** that leverages advanced handwriting recognition technology. Simply capture or upload images of handwritten student information, and let our system do the rest!
+
+## ✨ Key Features
+
+- 📸 **Smart Image Processing**: Upload or capture handwritten attendance sheets instantly
+- 🤖 **Advanced OCR**: Cutting-edge handwriting recognition technology
+- ⚡ **Real-time Processing**: Quick and efficient attendance marking
+- 🔒 **Secure Storage**: Protected and organized data management
+- 🎨 **User-friendly Interface**: Intuitive design for seamless teacher experience
+
+## 🌟 Technology Stack
+
+- Advanced OCR Processing
+- Real-time Data Analysis
+- Secure Database Integration
+- Modern Web Technologies
 
 ---
 
-## Inspiration and Guidance  
+## 👨‍🏫 Project Mentor
 
-This project was developed under the expert guidance of:  
+<div align="center">
+  <img src="https://mnit.ac.in/PortalProfile/images/faculty/mnitjas280.jpg" alt="Dr. Ram Dayal" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; border: 3px solid #0066cc;">
 
-**Dr. Ram Dayal**  
+### **Dr. Ram Dayal**
+  
 *Associate Professor*  
-*Dept. of Mechanical Engg.*, MNIT Jaipur  
-📧 Email: [ramdayal.mech@mnit.ac.in](mailto:ramdayal.mech@mnit.ac.in)  
-📞 Phone: 09782616007  
-🔗 [Vidwan Profile](https://vidwan.inflibnet.ac.in/profile/108911)  
+*Department of Mechanical Engineering*  
+MNIT Jaipur
 
-![Dr. Ram Dayal](https://mnit.ac.in/PortalProfile/images/faculty/mnitjas280.jpg)  
+[![Email](https://img.shields.io/badge/Email-ramdayal.mech%40mnit.ac.in-blue?style=flat-square&logo=gmail)](mailto:ramdayal.mech@mnit.ac.in)
+[![Phone](https://img.shields.io/badge/Phone-09782616007-green?style=flat-square&logo=phone)](tel:09782616007)
+[![Vidwan](https://img.shields.io/badge/Vidwan-Profile-orange?style=flat-square)](https://vidwan.inflibnet.ac.in/profile/108911)
 
-
-
----
+</div>
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/UDDITwork">Uddit</a> | Connect with me on <a href="https://linkedin.com/in/udditlord-">LinkedIn</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/UDDITwork?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/forks/UDDITwork?style=social" alt="GitHub Forks">
-</p>
+### 🤝 Connect & Contribute
 
+Made with ❤️ by [Uddit](https://github.com/UDDITwork)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/udditlord-)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/UDDITwork)
+
+</div>
